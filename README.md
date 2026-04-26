@@ -26,4 +26,4 @@ Pastikan komputer Anda sudah terinstal:
 ## Cara Menjalankan Program
 1. *Clone repository* ini ke komputer Anda:
    ```bash
-   git clone [https://github.com/username-anda/simulasi-kedatangan-poisson.git](https://github.com/username-anda/simulasi-kedatangan-poisson.git)
+   git clone [https://opgbadut/Simulasi-Kedatangan](https://github.com/opgbadut/Simulasi-Kedatangan.git)
